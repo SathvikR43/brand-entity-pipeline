@@ -27,8 +27,6 @@ Flask REST API
 - **Pipeline:** Custom ETL with entity resolution
 - **API:** Flask
 - **Data Source:** Wikidata (public API)
-- **Cloud-ready:** Designed for GCP (BigQuery/Cloud SQL)
-
 ---
 
 ## Project Structure
