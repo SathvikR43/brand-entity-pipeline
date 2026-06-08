@@ -1,0 +1,7 @@
+requests
+psycopg2-binary
+flask
+fuzzywuzzy
+python-levenshtein
+pandas
+python-dotenv
